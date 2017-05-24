@@ -1,0 +1,18 @@
+[Login] Wednesday, 21 December 2016 at 19:05:31
+Tries set to 3 as default
+Tries set to 2 at 19:05:40
+[Logout] Wednesday, 21 December 2016 at 19:06:12
+Season lasted 0:00:41
+
+[Login] Wednesday, 21 December 2016 at 19:06:33
+Tries set to 3 as default
+[Logout] Wednesday, 21 December 2016 at 19:06:35
+Season lasted 0:00:02
+
+[Login] Monday, 20 March 2017 at 13:45:42
+Tries set to 3 as default
+[Login] Monday, 20 March 2017 at 13:45:52
+Tries set to 3 as default
+[Logout] Monday, 20 March 2017 at 13:46:58
+Season lasted 0:01:07
+
